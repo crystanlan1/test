@@ -1,0 +1,5 @@
+更新日志
+
+　　- 修改添加 APPLE OSK，可以安装 MAC OS X
+　　- 修改添加 DELL SLIC2.4 + MSDM + SLP + Virtual PC XP
+　　- 直接在安装程序中集成CDK，调整安装UI，安装好即注册！
